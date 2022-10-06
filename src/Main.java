@@ -33,16 +33,16 @@ public class Main {
                 System.out.println(year);
             for (int i = 2021; i < 4000; i++) {
             if (i % 4 != 0) {
-                        System.out.println("Год весокосный" = i);
+                      System.out.println("Год весокосный" = i);
                                    }
-                //Задача 7.4
-                    int deliveryDistance = 95;
-                      if (deliveryDistance <= 20){
+             //Задача 7.4
+             int deliveryDistance = 95;
+              if (deliveryDistance <= 20){
                           System.out.println("Потребуется дней: + сутки на достваку");
-                          if (deliveryDistance = 20 || <= 60){
-                              System.out.println("Потребуется дней: + 2 суток на достваку");}
-                              if (deliveryDistance = 60 || <= 100 ){
-                              System.out.println("Потребуется дней: + 3 суток на достваку");
+             if (deliveryDistance = 20 || <= 60){
+                    System.out.println("Потребуется дней: + 2 суток на достваку");}
+             if (deliveryDistance = 60 || <= 100 ){
+                    System.out.println("Потребуется дней: + 3 суток на достваку");
                           }
              // Задача 7.5
             int monthNumber = 12;
